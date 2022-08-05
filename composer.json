@@ -1,0 +1,24 @@
+{
+    "name": "mmuflih/cleanapi",
+    "description": "Clean Architecture helper for laravel framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MMuflih\\CleanApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Muflih Kholidin",
+            "email": "muflic.24@gmail.co"
+        }
+    ],
+    "require": {
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
